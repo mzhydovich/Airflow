@@ -1,0 +1,7 @@
+{
+	"dir": "/home/magzim/innowise/py/",
+	"file_name": "tiktok_google_play_reviews",
+	"localhost": "27017/",
+	"db": "tiktok",
+	"collection": "google_play_reviews"
+}

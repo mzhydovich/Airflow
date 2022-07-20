@@ -1,0 +1,11 @@
+{
+	"dir": "/home/magzim/innowise/py/Airflow_Introduction/",
+	"file_name": "763K_plus_IOS_Apps_Info",
+	"conn_id": "snowflake_conn",
+	"db": "App_store",
+	"raw_table": "RAW_TABLE",
+	"stage_table": "STAGE_TABLE",
+	"master_table": "MASTER_TABLE",
+	"raw_stream": "RAW_STREAM",
+	"stage_stream": "STAGE_STREAM"
+}
